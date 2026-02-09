@@ -53,20 +53,6 @@ const idilHaqAlFarisi = {
 
 </div>
 
-## 🎯 Pinned Repositories
-
-<div align="center">
-
-[![EcoSteps Web](https://github-readme-stats.vercel.app/api/pin/?username=IdilHaqAlFarisi&repo=ecosteps-web&theme=tokyonight&hide_border=true)](https://github.com/IdilHaqAlFarisi/ecosteps-web)
-[![MQTT Isolation Forest](https://github-readme-stats.vercel.app/api/pin/?username=IdilHaqAlFarisi&repo=mqtt-isolation-forest&theme=tokyonight&hide_border=true)](https://github.com/IdilHaqAlFarisi/mqtt-isolation-forest)
-
-[![Library Database AKA](https://github-readme-stats.vercel.app/api/pin/?username=IdilHaqAlFarisi&repo=library_database_AKA&theme=tokyonight&hide_border=true)](https://github.com/IdilHaqAlFarisi/library_database_AKA)
-[![Tubes Jarkom](https://github-readme-stats.vercel.app/api/pin/?username=IdilHaqAlFarisi&repo=Tubes-Jarkom&theme=tokyonight&hide_border=true)](https://github.com/IdilHaqAlFarisi/Tubes-Jarkom)
-
-[![QOTS PBL](https://github-readme-stats.vercel.app/api/pin/?username=IdilHaqAlFarisi&repo=QOTS_PBL_StatisticGenre_Toko-Buku&theme=tokyonight&hide_border=true)](https://github.com/IdilHaqAlFarisi/QOTS_PBL_StatisticGenre_Toko-Buku)
-[![Tubes PBO](https://github-readme-stats.vercel.app/api/pin/?username=IdilHaqAlFarisi&repo=TubesPBO&theme=tokyonight&hide_border=true)](https://github.com/IdilHaqAlFarisi/TubesPBO)
-
-</div>
 
 ## 📫 Connect with Me
 
