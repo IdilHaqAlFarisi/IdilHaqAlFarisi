@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.png" alt="Header Banner" width="100%"/>
+  <img src="assets/header.jpg" alt="Header Banner" width="100%"/>
 </div>
 
 <h1 align="center">👨‍💻 Idil Haq Al Farisi</h1>
