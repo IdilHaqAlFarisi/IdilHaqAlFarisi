@@ -1,8 +1,8 @@
+<h1 align="center">👨‍💻 Idil Haq Al Farisi</h1>
+
 <div align="center">
   <img src="assets/header.jpg" alt="Header Banner" width="100%"/>
 </div>
-
-<h1 align="center">👨‍💻 Idil Haq Al Farisi</h1>
 
 <p align="center">
   <em>Developer | Tech Enthusiast | Problem Solver</em>
