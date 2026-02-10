@@ -69,6 +69,5 @@ const idilHaqAlFarisi = {
   
 ![Profile Views](https://komarev.com/ghpvc/?username=IdilHaqAlFarisi&color=blueviolet&style=flat-square&label=Profile+Views)
 
-⭐️ From [IdilHaqAlFarisi](https://github.com/IdilHaqAlFarisi)
 
 </div>
