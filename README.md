@@ -63,7 +63,6 @@ const idilHaqAlFarisi = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idilhaq05@gmail.com)
 </div>
 
----
 
 <div align="center">
   
