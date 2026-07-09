@@ -23,7 +23,6 @@ const idil = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IdilHaqAlFarisi&theme=transparent&hide_border=true&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=888&currStreakNum=EEEEEE&sideNums=EEEEEE&dates=888&stroke=1F1F1F&background=00000000)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdilHaqAlFarisi&theme=transparent)
 
