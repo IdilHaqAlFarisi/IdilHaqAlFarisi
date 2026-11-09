@@ -1,19 +1,43 @@
-<div align="center">
+<img align="right" src="https://avatars.githubusercontent.com/u/155290531?u=66ebef838692a4ecd0aea9291f5f5675e7090e03&v=4" width="132" alt="Idil Haq Al Farisi" />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neofetch?username=idilhaqalfarisi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155290531%3Fu%3D66ebef838692a4ecd0aea9291f5f5675e7090e03%26v%3D4&role=Software+Engineer&mode=light" />
-  <img src="https://www.gitskins.com/api/section/neofetch?username=idilhaqalfarisi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155290531%3Fu%3D66ebef838692a4ecd0aea9291f5f5675e7090e03%26v%3D4&role=Software+Engineer&mode=dark" width="100%"  />
-</picture>
+### Hi, I'm Idil Haq Al Farisi.
 
-</div>
+<em> Software Developer based in Indonesia. </em>
 
-<p align="center">
-  <code>~/links</code> &nbsp;
-  <a href="https://github.com/idilhaqalfarisi">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/idilhaqalfarisi">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:idilhaq05@gmail.com">Email</a>
-</p>
+<em> Focused on building reliable, well-structured software. </em>
 
+[Website](https://github.com/idilhaqalfarisi) · [GitHub](https://github.com/idilhaqalfarisi) · [X](https://x.com/your-handle)
 
+<img src="https://img.shields.io/github/followers/idilhaqalfarisi?style=flat&label=followers&labelColor=545454&color=313131" alt="followers" /> <img src="https://img.shields.io/github/stars/idilhaqalfarisi?style=flat&label=stars&labelColor=545454&color=313131" alt="stars" /> <img src="https://img.shields.io/badge/status-open_to_work-313131?style=flat&labelColor=545454" alt="open to work" />
 
-<p align="center"><sub> Idil Haq Al Farisi </p>
+<br clear="right" />
+
+<table><tr><td valign="top" width="50%">
+
+#### Selected work
+
+<em>✏️ What you built and why it matters.</em>
+
+<em>✏️ What you built and why it matters.</em>
+
+</td><td valign="top" width="50%">
+
+#### What I bring
+
+- <em>✏️ Say this in your own words.</em>
+- <em>✏️ Say this in your own words.</em>
+- <em>✏️ Say this in your own words.</em>
+
+</td></tr></table>
+
+#### Stack
+
+<em>✏️ The tools you reach for, in a sentence.</em>
+
+<details>
+<summary><b>Activity this year</b></summary>
+<br />
+<img src="https://www.gitskins.com/api/section/heatmap?username=idilhaqalfarisi&theme=github-dark&mode=light" width="100%" alt="Contributions in the last year" />
+</details>
+
+<p align="center"><sub> Idil Haq Al Farisi · <a href="https://www.gitskins.com/readme-generator?template=community-hire-me-brief-94yz">Hire Me Brief</a> template by <a href="https://www.gitskins.com/templates">GitSkins</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
