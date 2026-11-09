@@ -9,7 +9,6 @@ Focused on building reliable, well-structured software.
 
 </div>
 
----
 
 ```ts
 const idil = {
@@ -19,7 +18,7 @@ const idil = {
 }
 ```
 
----
+
 
 <div align="center">
 
@@ -30,7 +29,7 @@ const idil = {
 
 </div>
 
----
+
 
 <div align="center">
 
