@@ -13,7 +13,7 @@ Focused on building reliable, well-structured software.
 ## Technical Skills
 - **Programming Languages:** C, Python, Go, JavaScript, TypeScript, Java
 - **Frameworks & Technologies:** React, Node.js, Docker
-- **Databases:** MySQL
+- **Databases:** SQL
 - **Tools:** Git
 - **Areas of Interest:** Web Development, Software Engineering
 
