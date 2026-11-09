@@ -1,37 +1,46 @@
+<p align="left">
+  <strong><span style="font-size: 28px;">Idil Haq Al Farisi</span></strong>
+</p>
 
+<p align="left"><strong>Software Developer | Indonesia</strong></p>
 
-# Idil Haq Al Farisi
+<p align="left">
+  Software Developer focused on building reliable, scalable, and maintainable software.
+</p>
 
-Software Developer based in Indonesia.  
-Focused on building reliable, well-structured software.
+<p align="left"><strong>Technical Skills</strong></p>
 
+<p align="left"><strong>Programming Languages</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,go,js,ts,java" height="35" />
+</p>
 
+<p align="left"><strong>Frameworks & Technologies</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,docker" height="35" />
+</p>
 
+<p align="left"><strong>Databases & Tools</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github" height="35" />
+</p>
 
+<p align="left"><strong>Areas of Interest</strong></p>
+<p align="left">
+  Web Development · Software Engineering · Cybersecurity · DevOps
+</p>
 
+<p align="left"><strong>GitHub Overview</strong></p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdilHaqAlFarisi&theme=github_dark" width="100%" />
+</p>
 
-## Technical Skills
-- **Programming Languages:** C, Python, Go, JavaScript, TypeScript, Java
-- **Frameworks & Technologies:** React, Node.js, Docker
-- **Databases:** SQL
-- **Tools:** Git
-- **Areas of Interest:** Web Development, Software Engineering, Cyber Security, Dev Ops
+<p align="left"><strong>Connect With Me</strong></p>
+<p align="left">
+  <a href="https://linkedin.com/in/idilhaqalfarisi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:idilhaq05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-
-
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdilHaqAlFarisi&theme=transparent)
-
-
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idilhaqalfarisi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idilhaq05@gmail.com)
-</div>
-
-
-
-![](https://komarev.com/ghpvc/?username=IdilHaqAlFarisi&color=4A90D9&style=flat&label=profile+views)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=IdilHaqAlFarisi&color=0A66C2&style=flat-square&label=Profile+Views" />
+</p>
