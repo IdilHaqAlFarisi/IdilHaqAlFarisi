@@ -15,7 +15,7 @@ Focused on building reliable, well-structured software.
 - **Frameworks & Technologies:** React, Node.js, Docker
 - **Databases:** SQL
 - **Tools:** Git
-- **Areas of Interest:** Web Development, Software Engineering
+- **Areas of Interest:** Web Development, Software Engineering, Cyber Security, Dev Ops
 
 
 
