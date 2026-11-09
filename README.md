@@ -9,4 +9,4 @@
 
 <p align="center"><code>~/links</code> &nbsp; <a href="https://github.com/idilhaqalfarisi">GitHub</a></p>
 
-<p align="center"><sub> Idil Haq Al Farisi · Neofetch card generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub> Idil Haq Al Farisi </p>
