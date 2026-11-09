@@ -38,6 +38,11 @@
 <summary><b>Activity this year</b></summary>
 <br />
 <img src="https://www.gitskins.com/api/section/heatmap?username=idilhaqalfarisi&theme=github-dark&mode=light" width="100%" alt="Contributions in the last year" />
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdilHaqAlFarisi&theme=transparent)
+  
 </details>
+
+
 
 <p align="center"><sub> Idil Haq Al Farisi · <a href="https://www.gitskins.com/readme-generator?template=community-hire-me-brief-94yz">Hire Me Brief</a> template by <a href="https://www.gitskins.com/templates">GitSkins</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
