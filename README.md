@@ -1,35 +1,12 @@
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neofetch?username=idilhaqalfarisi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155290531%3Fu%3D66ebef838692a4ecd0aea9291f5f5675e7090e03%26v%3D4&role=Frontend+or+full-stack+engineer&mode=light" />
+  <img src="https://www.gitskins.com/api/section/neofetch?username=idilhaqalfarisi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155290531%3Fu%3D66ebef838692a4ecd0aea9291f5f5675e7090e03%26v%3D4&role=Frontend+or+full-stack+engineer&mode=dark" width="100%" alt=" Idil Haq Al Farisi: neofetch-style profile card" />
+</picture>
 
-# Idil Haq Al Farisi
-
-Software Developer based in Indonesia.  
-Focused on building reliable, well-structured software.
-
-
-
-
-
-
-## Technical Skills
-- **Programming Languages:** C, Python, Go, JavaScript, TypeScript, Java
-- **Frameworks & Technologies:** React, Node.js, Docker
-- **Databases:** SQL
-- **Tools:** Git
-- **Areas of Interest:** Web Development, Software Engineering
-
-
-
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdilHaqAlFarisi&theme=transparent)
-
-![](https://komarev.com/ghpvc/?username=IdilHaqAlFarisi&color=4A90D9&style=flat&label=profile+views)
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idilhaqalfarisi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idilhaq05@gmail.com)
 </div>
 
+<p align="center"><code>~/links</code> &nbsp; <a href="https://github.com/idilhaqalfarisi">GitHub</a></p>
 
+<p align="center"><sub> Idil Haq Al Farisi · Neofetch card generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
