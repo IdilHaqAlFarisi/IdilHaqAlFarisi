@@ -24,7 +24,7 @@ Focused on building reliable, well-structured software.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdilHaqAlFarisi&theme=transparent)
 
-![](https://komarev.com/ghpvc/?username=IdilHaqAlFarisi&color=4A90D9&style=flat&label=profile+views)
+
 
 
 
@@ -33,3 +33,5 @@ Focused on building reliable, well-structured software.
 </div>
 
 
+
+![](https://komarev.com/ghpvc/?username=IdilHaqAlFarisi&color=4A90D9&style=flat&label=profile+views)
