@@ -35,8 +35,9 @@
 </p>
 
 <h3 align="left">GitHub Overview</h3>
+
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdilHaqAlFarisi&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdilHaqAlFarisi&theme=github_dark" width="75%" />
 </p>
 
 <p align="center">
