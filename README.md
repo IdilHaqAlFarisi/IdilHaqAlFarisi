@@ -1,6 +1,5 @@
-<p align="left">
-  <strong><span style="font-size: 28px;">Idil Haq Al Farisi</span></strong>
-</p>
+<h3 align="left">Idil Haq Al Farisi</h3>
+
 
 <p align="left"><strong>Software Developer | Indonesia</strong></p>
 
